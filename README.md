@@ -8,4 +8,4 @@ Back To Work is a simple chrome extension written in JavaScript
 * Then click on the enable button to get the extension started
 
 ## Contributions
-You can contribute to this project by simply cloning and get started as quickly as possible, then send a pull request and add your name and github profile name to the Contributions.md file.
+You can contribute to this project by simply cloning and get started as quickly as possible, then send a pull request and add your name and github profile name to the `Contributions.md` file.
