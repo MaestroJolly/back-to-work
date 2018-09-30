@@ -1,0 +1,13 @@
+{
+    "name": "Back to work!!!",
+    "version": "1.0",
+    "manifest_version": 2,
+    "content_scripts": [{
+        "js": ["inject.js"],
+        "matches": [
+            "https://twitter.com/*",
+            "https://*.facebook.com/*",
+            "https://*.reddit.com/*"
+        ]
+    }]
+}
