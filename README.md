@@ -6,4 +6,4 @@ Back To Work is a simple chrome extension written in JavaScript
 * Enter chrome://extensions/ in chrome, then click on load unpacked and select back-to-work folder
 
 ## Contributions
-You can contribute to this project by simply cloning and get started as quickly as possible, then send a pull request and add your name and github profile name to the `Contributions.md` file.
+You can contribute to this project by simply cloning and get started as quickly as possible, then send a pull request.
